@@ -14,7 +14,7 @@
 
 ## Change language (default is Polish)
 
-To choose language PL or EN you just change it in `"./html/src/translation.js"` and compile (step 5), if you want add your own language:
+To choose language PL or EN you can download release, or change it in `"./html/src/translation.js"` and compile (step 5). Maybe you want add your own language then follow these steps:
 1. just copy one of previously created (XX_clothes, XX_menu)
 2. change XX to your country code
 3. translate variables on right side
