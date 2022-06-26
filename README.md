@@ -17,7 +17,7 @@
 To choose language PL or EN you can download release, or change it in `"./html/src/translation.js"` and compile (step 5). Maybe you want add your own language then follow these steps:
 1. just copy one of previously created (XX_clothes, XX_menu)
 2. change XX to your country code
-3. translate variables on right side
+3. translate content of variables (on right side)
 4. add created var to exports at the bottom of file
 5. install node.js on your computer
 6. open powershell/cmd/terminal in `./html` and run **npm install webpack**
